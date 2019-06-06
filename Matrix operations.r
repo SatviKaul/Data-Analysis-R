@@ -45,7 +45,7 @@ tech.stocks
 
 avg <- rowMeans(tech.stocks)
 avg
-
+ 
 tech.stocks <- cbind(tech.stocks,avg)#cbind for colomn binding
 tech.stocks
 
