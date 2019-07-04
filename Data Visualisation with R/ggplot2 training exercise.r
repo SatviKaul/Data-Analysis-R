@@ -28,3 +28,4 @@ print(pl2)
 pl = ggplot(txhousing,aes(x=sales,y=volume))
 pl2 = pl+geom_point(color='blue',alpha=0.5)+geom_smooth(color='red')
 print(pl2)
+
