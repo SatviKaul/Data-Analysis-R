@@ -95,3 +95,7 @@ return(TRUE)
 prime_check(8)
 prime_check(22221)
 prime_check(7)
+
+v <- c(1,2,3,4)
+v1 <-  c(1,2,3,4)
+paste(v,collapse  = '$')
