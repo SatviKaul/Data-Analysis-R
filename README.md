@@ -1,1 +1,1 @@
-# Data Analysis and visualisation in R.
+# Data Analysis, visualisation in R.
